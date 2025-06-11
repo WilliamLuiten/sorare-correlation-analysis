@@ -44,12 +44,11 @@ jupyter notebook "Sorare Premier League correlations.ipynb"
 You also need to fill in your credentials in the Sorare Premier League correlations.ipynb file.
 
 ## Repository Structure
-.                 
-├── notebooks/
-│   └── Sorare Premier League correlations.ipynb
-├── requirements.txt
-├── README.md
-└── .gitignore
+- notebooks/
+   - Sorare Premier League correlations.ipynb
+- requirements.txt
+- README.md
+- .gitignore
 
 ## License
 This project is licensed under the MIT License. See LICENSE for details.
