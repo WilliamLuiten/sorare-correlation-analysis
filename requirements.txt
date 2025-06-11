@@ -1,0 +1,7 @@
+Pandas
+numpy
+matplotlib.pyplot
+seaborn
+os
+requests
+bcrypt
