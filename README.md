@@ -42,6 +42,7 @@ jupyter notebook "Sorare Premier League correlations.ipynb"
 
 ⚠️ Note: You need a Sorare account to access data via the API. Instructions for using the API can be found here [Sorare API](https://github.com/sorare/api).
 You also need to fill in your credentials in the Sorare Premier League correlations.ipynb file.
+Keep in mind that Sorare can change their API at anytime, the code could thus be outdated.
 
 ## Repository Structure
 - notebooks/
